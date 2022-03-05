@@ -4,8 +4,6 @@
 
 ---
 
-## Discord Support
-<a href="https://discord.gg/8heARRB"><img src="https://discordapp.com/api/guilds/624635034225213440/widget.png?style=banner2"></a>
 
 ## Installation
 fortnitejs-bot requires nodejs. If you need nodejs, you can get it from here: [nodejs Download](https://nodejs.org/en/download/ "nodejs Download").
