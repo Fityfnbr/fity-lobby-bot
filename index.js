@@ -27,7 +27,7 @@ const { get } = require('request-promise');
     return;
   }
 
-  console.log('\x1b[36mfortnitejs-bot made by xMistt. Massive credit to This Nils and Alex for creating the library.');
+  console.log('\x1b[36mfortnitejs-bot made by daneek. Massive credit to This lolo.player for creating the library.');
   console.log('Discord server: https://discord.gg/fnpy - For support, questions, etc.\x1b[0m');
 
   process.stdout.write('\x1b[33mFetching cosmetics...\x1b[0m');
